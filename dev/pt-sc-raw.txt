@@ -449,7 +449,8 @@ Aguantai, v. Agüentar
 Agudesa, f. Agudez
 Agudiziosu, adj. V. Agudu
 Agudu, adj. Agudo
-Agurai, v. V. Augurai, Ah!. Interj. Ah!
+Agurai, v. V. Augurai, 
+Ah!. Interj. Ah!
 Ahi! Interj. Ai!
 A, adv. Avante, adiante
 Airi, m. V. Aria
@@ -2485,7 +2486,8 @@ Colloquiu, m. Colóquio
 Colonia, f. Colônia
 Coloniali, adj. Colonial
 Colonnellu, m. Coronel
-Colorai, v. V. Coloriri, Coloramentu, m. V. Colorazíoni
+Colorai, v. V. Coloriri, 
+Coloramentu, m. V. Colorazíoni
 Colorazioni, f. Coloração
 Colori, m. Cor
 Coloriri, v. Colorir
@@ -4630,7 +4632,8 @@ Equivocamenti, adv. Equivocamente
 Equivocamentu, m. Equivocação
 Equivocu, m. Equívoco
 Era, f. Era
-Erai, v. V. Assimbilai, Erariu, m. Erário
+Erai, v. V. Assimbilai, 
+Erariu, m. Erário
 Erba, f. Erva
 Erbaceu, adj. Erbáceo
 Erborista, m. Ervatário
@@ -5216,7 +5219,8 @@ Flaccamenti, adv. Fracamente
 Flacchesa, f. Fraqueza
 Flacchessiri, v. V. Inflacchessiri
 Flacchi, adj. V. Flacclu
-Flacclu, adj. Fraco, Flacidesa, f. Flacidez
+Flacclu, adj. Fraco, 
+Flacidesa, f. Flacidez
 Flagellai, v. Flagelar
 Flagellu, m. Flagelo
 Flamma, f. Chama
@@ -5925,7 +5929,8 @@ Illativu, adj. Ilativo
 Illazioni, f. Ilação
 Illegali, adj. Ilegal
 Illegalidadi, f. Ilegalidade
-Illegittimamenti, adv. Ilegitimamente, Illegittimu, adj. Ilegítimo
+Illegittimamenti, adv. Ilegitimamente, 
+Illegittimu, adj. Ilegítimo
 Illesu, adj. Ileso
 Illicitamenti, adv. Ilicitamente
 Illicitu, adj. Ilícito
@@ -7137,7 +7142,8 @@ Iscuria, f. Iscúria
 Isoscele, adj. Isóscele, isósceles
 Ispirazioni, f. V. Inspirazioni
 Issai, v. Içar
-Issu, pron. Eles, deles, Istantaneamenti, adv. Instantaneamente
+Issu, pron. Eles, deles, 
+Istantaneamenti, adv. Instantaneamente
 Istantaneu, adj. Instantâneo
 Istanti, m. V. Instanti
 Istanzia, f. V. Instanzia
@@ -10434,7 +10440,8 @@ Rabbinu, m. Rabino
 Rabbiosamenti, adv. Raivosamente
 Rabbiosu, adj. Raivoso
 Raccontai, v. Contar, relatar
-Raccontu, m. Conto, Rachiticu, adj. Raquítico
+Raccontu, m. Conto, 
+Rachiticu, adj. Raquítico
 Radiai, v. Irradiar, radiar
 Radicai, v. Radicar
 Radicali, adj. e m. Radical
@@ -11541,7 +11548,8 @@ Sensualmenti, adv. Sensualmente
 Sentenzia, f. Sentença
 Sentenziai, v. Sentenciar
 Sentenziosu, adj. Sentencioso
-Sentidu, m. Sentido, Sentinella, f. Sentinela
+Sentidu, m. Sentido, 
+Sentinella, f. Sentinela
 Sentiri, v. Sentir
 Senza, f. prep. Sem
 Separadamenti, adv. Separadamente
@@ -13181,7 +13189,8 @@ Utilmenti, adv. Utilmente
 Utilosu, adj. Vantajoso
 V
 V, m. V
-Vacai, v. Vacar, Vacanti, adj. Vacante
+Vacai, v. Vacar, 
+Vacanti, adj. Vacante
 Vacanza, f. Vacância
 Vacazioni, f. V. Vacanza 2. Férias
 Vaccina, f. Vacina
