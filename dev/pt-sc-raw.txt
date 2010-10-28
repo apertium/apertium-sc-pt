@@ -6470,7 +6470,9 @@ Incriticabili, adj. Incriticável
 Inculcai, v. Inculcar
 Inculpabili, adj. Inculpável
 Inculpabilmenti, adv. Inculpavelmente
-Inculpai, v. Inculpar. Incultu, adj. Inculto. Incumbenienti, adj. Inconveniente
+Inculpai, v. Inculpar. 
+Incultu, adj. Inculto. 
+Incumbenienti, adj. Inconveniente
 Incumbenienzia, f. Inconveniência
 Incumbenzai, v. Incumbir,
 encarregar
@@ -9334,12 +9336,10 @@ Patrimoniu, m. Patrimônio
 Patriu, adj. Pátrio
 Patriziatu, m. Patriciado
 Patriziu, m. adj. Patrício
-Patrocinadori, adj. e m. Patrocinador, defensor, protetor
-2. Advogado
+Patrocinadori, adj. e m. Patrocinador, defensor, protetor 2. Advogado
 Patrocinai, v. Patrocinar,
 defender, proteger 2. Advogar
-Patrociniu, m. Patrocínio, defesa,
-proteção
+Patrociniu, m. Patrocínio, defesa, proteção
 Patronatu, m. Patronato
 Pattu, m. Pacto
 Pattuai, v. Pactuar
@@ -12144,8 +12144,7 @@ Spititai, v. V. Spetitai
 Spizzecu, adj. Avaro
 Spizzulai, v. Bicar 2. Picar 3. Quebrar
 Spizzulamentu, m. V. Spizzulu
-Spizzulu, m. Bicada 2. Picada 3. Quebra, ato ou efeito de
-quebrar
+Spizzulu, m. Bicada 2. Picada 3. Quebra, ato ou efeito de quebrar
 Splanai, v. Explanar
 Splanazioni, f. Explanação
 Splendentementi, adv. Esplendentemente
