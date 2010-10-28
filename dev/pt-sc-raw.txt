@@ -12551,8 +12551,7 @@ Sustantivamenti, adv. Substantivamente
 Sustantivu, adj. Substantivo
 Sustanzia, f. Substância
 Sustanziali, adj. Substancial
-Sustanzialidadi, f. 551
-Substancialidade
+Sustanzialidadi, f. Substancialidade
 Sustanzialmenti, adv. Substancialmente
 Sustanziosamenti, adv. Substanciosamente
 Sustanziosu, adj. Substancioso
@@ -13522,8 +13521,7 @@ Violazioni, f. Violação
 Violaziu, adj. Violáceo
 Violentadori, adj. e m. Violentador
 Violentai, v. Violentar
-Violentementi, adv. DICIONÁRIO SARDO / PORTUGUÊS
-Violentamente
+Violentementi, adv. Violentamente
 Violentu, adj. Violento
 Violenzia, f. Violência
 Violeta, f. Violeta
