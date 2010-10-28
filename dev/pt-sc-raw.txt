@@ -423,7 +423,8 @@ Agitadori, m. Agitador
 Agitai, v. Agitar
 Agitamentu, m. Agitamento, agitação
 Agitazioni, f. Agitação
-Agliu, m. V. Allu. Agnatiziu, adj. Agnaticio
+Agliu, m. V. Allu. 
+Agnatiziu, adj. Agnaticio
 Agnatu, adj. Agnato
 Agnazioni, f. Agnação
 Agonia, f. Agonia
@@ -816,7 +817,8 @@ Antipatia, f. Antipatia
 Antipaticu, adj. Antipático
 Antipatisai, v. Antipatizar
 Antipatizzai, v. V. Antipatisai
-Antipodus, m. Antípoda. Antiquaria, f. Antiquária
+Antipodus, m. Antípoda. 
+Antiquaria, f. Antiquária
 Antiquariu, m. Antiquário
 Antologia, f. Antologia
 Antologicu, adj. Antológico
@@ -1462,7 +1464,8 @@ Azzidu, adj. V. Acidu
 Azzizzai, v. Atiçar
 Azzizzamentu, m. Atiçamento
 B
-B, m. B. Babbu, m. Pai
+B, m. B. 
+Babbu, m. Pai
 Babilonia, f. Babilônia
 Babilonicu, adj. Babilônico
 Bacca, f. Vaca
@@ -4870,7 +4873,8 @@ Estirpai, v. Extirpar
 Estirpamentu, m. Extirpação
 Estivu, adj. Estivo
 Estorsioni, f. Extorsão
-Estrangiudiziali, adj. Extrajudicial. Estragiudizialmenti, adv. Extrajudicialmente
+Estrangiudiziali, adj. Extrajudicial. 
+Estragiudizialmenti, adv. Extrajudicialmente
 Estrairi, v. Extrair
 Estraneu, adj. Estrangeiro
 Estraniu, adj. Estranho
@@ -6207,14 +6211,14 @@ Imprassidu, m. V. Abbrazzidu
 Impraticabili, adj. Impraticável
 Imprecativu, adj. Imprecativo
 Imprecazioni, f. Imprecação
-Imprenta, f. Impressão. Imprentadori, m. Impressor
+Imprenta, f. Impressão. 
+Imprentadori, m. Impressor
 Imprentadura, f. V. Impressioni
 Imprentai, v. Imprimir
 Impresa, f. Empresa
 Impresariu, m. Empresário
 Imprescrittibili, adj. Imprescritível
-Impresonai, v. Emprisionar,
-aprisionar
+Impresonai, v. Emprisionar, aprisionar
 Impresonamentu, m. Aprisionamento
 Impressionai, v. Impressionar
 Impressioni, f. Impressão
