@@ -449,8 +449,7 @@ Aguantai, v. Agüentar
 Agudesa, f. Agudez
 Agudiziosu, adj. V. Agudu
 Agudu, adj. Agudo
-Agurai, v. V. Augurai,
-Ah!. Interj. Ah!
+Agurai, v. V. Augurai, Ah!. Interj. Ah!
 Ahi! Interj. Ai!
 A, adv. Avante, adiante
 Airi, m. V. Aria
@@ -624,8 +623,7 @@ Amigu, m. adj. Amigo
 Amistadi, f. V. Amistanzia
 Amistanzia, f. V. Amicizia
 Amistanziosu, adj. Afetuoso
-Ammacchiadura, f. Demência,
-loucura
+Ammacchiadura, f. Demência, loucura
 Ammacchiai, v. Enlouquecer
 Ammadurai, v. Amadurecer
 Ammaistradamenti, adv. Amestradamente
@@ -722,8 +720,7 @@ Anfiteatru, m. Anfiteatro
 Angelicamenti, adv. Angelicamente
 Angelicu, adj. Angélico
 Angelu, m. Anjo
-Angina, f. Angina,
-Angioni, m. Cabrito
+Angina, f. Angina, Angioni, m. Cabrito
 Angiotomia, f. Angiotomia
 Anglicismu, m. Aglicismo
 Angulari, adj. Angular
@@ -1010,8 +1007,7 @@ Architettori, m. V. Architettu
 Architettu, m. Arquiteto
 Architettura, f. Arquitetura
 Arcidiaconau, m. Arquidiaconato
-Arcidiaconu, m. Arquidiácono,
-arcediago
+Arcidiaconu, m. Arquidiácono, arcediago
 Arciduce, m. Arquiduque
 Arciducau, m. Arquiducato
 Arciduchessa, f. Arquiduquesa
@@ -1102,17 +1098,14 @@ Arrangiolu, m. V. Aragua
 Arreforzai, v. V. Reforzai
 Arrefrigerai, v. V. Refrigerai
 Arrendai, v. Arrendar, alugar
-Arrendamentu, m. Arrendamento,
-aluguel
+Arrendamentu, m. Arrendamento, aluguel
 Arrendimentu, m. Rendição
 Arrendiri, v. Render
 Arrendu, m. V. Arrendamentu
 Arrennegai, v. Arrenegar
 Arrepentirisì, v. Arrepender-se
-Arrestai, v. Prender, arrestar,
-capturar
-Arrestamentu, m. Prisão, arresto,
-captura
+Arrestai, v. Prender, arrestar, capturar
+Arrestamentu, m. Prisão, arresto, captura
 Arrestu, m. V. Arrestamentu
 Arrevesciai, v. V. Vomitai
 Arrioli, m. Moeda sarda
@@ -1123,8 +1116,7 @@ Arriccai, v. V. Arricchiri
 Arricchimentu, m. Enriquecimento
 Arricchiri, v. Enricar, enriquecer
 Arrinconai, v. Encantoar
-Arrinconi, m. Rincão, canto,
-ângulo
+Arrinconi, m. Rincão, canto, ângulo
 Arriri, v. Rir
 Arrisada, f. V. Risada
 Arriscai, v. Arriscar
@@ -1188,8 +1180,7 @@ Ascioluzioni, f. V. Assoluzioni
 484
 Asciugai, v. Enxugar
 Ascu, m. Asco
-Ascurtai, v. Escutar, ouvir,
-auscultar
+Ascurtai, v. Escutar, ouvir, auscultar
 A scusi, adv. Às escondidas
 Asfaltu, m. Asfalto
 Asfissia, f. Asfixia
@@ -1213,8 +1204,7 @@ Aspresa, f. V. Asperesa
 Asprori, m. V. Aspresa
 Aspru, adj. Áspero
 Assalariai, v. Assalariar
-Assaltadori, m. Assaltador,
-assaltante
+Assaltadori, m. Assaltador, assaltante
 Assaltai, v. Assaltar
 Assaltamentu, m. V. Assaltu
 Assaltu, m. Assalto
@@ -1324,8 +1314,7 @@ Atrofia, f. Atrofia
 Attaccai, v. Unir, colar 2. Atacar
 Attaccamentu, m. União, conexão
 Attaccu, m. Ataque
-Attendai, v. Levantar barracas,
-acampar
+Attendai, v. Levantar barracas, acampar
 Attendimentu, m. Atendimento
 Attendiri, v. Atender
 Attenirisì, v. Ater-se
@@ -1537,8 +1526,7 @@ Baronia, f. Baronia
 Baronissa, f. V. Baronesa
 Barricada, f. Barricada
 Barriera, f. Barreira
-Basadori, m. Beijoqueiro,
-Beijador
+Basadori, m. Beijoqueiro, Beijador
 Basai, v. Beijar
 Basaliscu, m. Basilisco
 Basamanu, m. Beija-mão
@@ -1648,8 +1636,7 @@ Bestialmenti, adv. Bestialmente
 Bestiami, m. Bestiame
 Bestimenta, f. Vestimento
 Bestiri, v. Vestir
-Bertiri, m. Hábito, vestido, veste,
-traje
+Bertiri, m. Hábito, vestido, veste, traje
 Bevida, f. Bebida
 Bia, f. Via, caminho, estrada
 Biadesa, f. V. Beadesa
@@ -1840,8 +1827,7 @@ Brindamentu, m. V. Brindis
 Brindis, m. V. Brindisi
 Brindisi, m. Brinde
 Brocau, m. Brocado
-Brocculus, m. Brócolos, brócolis,
-brocos
+Brocculus, m. Brócolos, brócolis, brocos
 Brodai, v. V. Bordai
 Brodu, m. Caldo, sopa
 Brotai, v. Brotar
@@ -1876,8 +1862,7 @@ Burlai, v. Burlar
 Burlanu, adj. Motejador, brincalhão
 Burlescamenti, adj. Burlescamente
 Burlescu, adj. Burlesco
-Burraccera, f. Embriaguês,
-bebedeira
+Burraccera, f. Embriaguês, bebedeira
 Burracciu, adj. Bêbado
 Burrasca, f. Borrasca
 Burrascosu, adj. Borrascoso
@@ -1984,15 +1969,13 @@ Cambiadura, f. V. Cambiamentu
 Cambiai, v. Cambiar, trocar
 Cambiamentu, m. Câmbio, troca
 Cambista, m. Cambista
-Cambiu, m. Câmbio, troca,
-permuta
+Cambiu, m. Câmbio, troca, permuta
 Camelu, m. Camelo
 Camisa, f. Camisa
 Camisetta, f. Camiseta
 Camisola, f. Camisola
 Camminada, f. Caminhada
-Camminadori, m. Caminhante,
-caminhador
+Camminadori, m. Caminhante, caminhador
 Camminai, v. Caminhar
 Camminu, m. Caminho
 Campagna, f. Campanha
@@ -2316,8 +2299,7 @@ China, f. Quina
 Chini, pron. Quem
 Chinisisiat, pron. Quem quer que
 seja
-Chirru, m. Canto, banda, lado,
-parte
+Chirru, m. Canto, banda, lado, parte
 Chirurgia, f. Cirurgia
 Chirurgicu, adj. Cirúrgico
 Chirurgu, m. Cirurgião
@@ -2389,16 +2371,14 @@ Citai, v. Citar
 Citazioni, f. Citação
 Citera, f. Citara
 Citerizzai, v. Tocar citara
-Citidamenti, adv. Tacitamente,
-caladamente
+Citidamenti, adv. Tacitamente, caladamente
 Citiri, m. Silêncio, mutismo
 Citiri, v. Calar
 Cittadella, f. Cidadela
 Cittadi, f. Cidade
 Cittadinu, m. adj. Citadino
 Ciucculatti, m. V. Cioccolatti
-Ciuffa, f. Altercação, disputa,
-batalha
+Ciuffa, f. Altercação, disputa, batalha
 Ciutadi, f. V. Cittadi
 Civicu, adj. Cívico
 Civildadi, f. V. Civilidadi
@@ -2505,8 +2485,7 @@ Colloquiu, m. Colóquio
 Colonia, f. Colônia
 Coloniali, adj. Colonial
 Colonnellu, m. Coronel
-Colorai, v. V. Coloriri,
-Coloramentu, m. V. Colorazíoni
+Colorai, v. V. Coloriri, Coloramentu, m. V. Colorazíoni
 Colorazioni, f. Coloração
 Colori, m. Cor
 Coloriri, v. Colorir
@@ -2879,8 +2858,7 @@ Contraddixiri, v. Contradizer
 Contraddizioni, f. Contradição
 Contradixiri, v. V. Contraddixiri
 Contraffai, v. Contrafazer
-Contraffattori, m. Contrafator,
-contrafazedor
+Contraffattori, m. Contrafator, contrafazedor
 Contraffazioni, f. Contrafação
 Contrafforti, m. Contraforte
 Contrafuga, f. Contrafuga
@@ -3399,8 +3377,7 @@ Cursu, m. Curso
 Curva, f. Curva
 Curvadura, f. Curvatura
 Curvai, v. Curvar
-Curvidadi, f. Curvidade,
-curvatura
+Curvidadi, f. Curvidade, curvatura
 Curvilineu, adj. Curvilíneo
 Curvu, adj. Curvo
 Curzedadi, f. Curteza 2. Descortesia
@@ -3626,8 +3603,7 @@ Deplorai, v. Deplorar
 Deplorandu, adj. V. Deplorabili
 Deponenti, adj. Depoente
 Deponiri, v. Depor
-Depopulai, v. Despovoar,
-depopular
+Depopulai, v. Despovoar, depopular
 Deportazioni, f. Deportação
 Depositai, v. Depositar
 Depositu, m. Depósito
@@ -3695,8 +3671,7 @@ Desossai, v. Desossar
 Despota, m. Déspota
 Despotismu, m. Despotismo
 Destinai, v. Destinar
-Destinazioni, f. Destinação,
-destino
+Destinazioni, f. Destinação, destino
 Destinu, m. Destino
 Destrossai, v. Destroçar
 Destrossu, m. Destroços
@@ -3802,8 +3777,7 @@ Differentementi, adv. Diferentemente
 Differenti, adj. Diferente
 Differenzia, f. Diferença
 Differenziadamenti, adv. Diferenciadamente
-Differenziai, v. Diferenciar,
-diferençar
+Differenziai, v. Diferenciar, diferençar
 Differenziali, adj. Diferencial
 Difficili, adj. Difícil
 Difficilmenti, adv. Dificilmente
@@ -3992,8 +3966,7 @@ Discunfortu, m. Desconforto
 Discuntentai, v. Descontentar
 Discuntentesa, f. Descontetamento
 Discuntentu, adj. Descontente
-Discurriri, v. Discorrer, meditar,
-examinar
+Discurriri, v. Discorrer, meditar, examinar
 Discursivu, adj. Discursivo
 Discursu, m. Discurso
 Discussioni, f. Discussão
@@ -4078,8 +4051,7 @@ Disoccupazioni, f. Desocupação
 Disogai, v. Divertir
 Disogamentu, m. Divertimento
 Disogu, m. V. Disogamentu
-Disonestadi, f. V. Disonestidadi,
-Disonestai, v. Desonestar
+Disonestadi, f. V. Disonestidadi, Disonestai, v. Desonestar
 Disonestidadi, f. Desonestidade 2. Impureza 3. Obscenidade
 Disonestamenti, f. Desonestamente
 Disonestu, adj. Desonesto
@@ -4102,11 +4074,9 @@ Disparidadi, f. Disparidade
 Dispidiri, v. Despedir (um
 empregado)
 Dispintadamenti, adv. Fingidamente, dissimuladamente
-Dispintadori, m. Fingidor,
-dissimulador
+Dispintadori, m. Fingidor, dissimulador
 Dispintai, v. Fingir, dissimular
-Dispintamentu, m. Fingimento,
-dissimulação
+Dispintamentu, m. Fingimento, dissimulação
 Displaxeri, m. Desprazer
 Displaxibili, adj. Desprazível
 Displaximentu, m. Desprazimento
@@ -4137,8 +4107,7 @@ Dissertazioni, f. Dissertação
 Dissiccai, v. Dissecar
 Disseccamentu, m. Dissecação
 Dissillabu, adj. Dissílabo
-Dissimbilai, v. Dessemelhar,
-dissimilar
+Dissimbilai, v. Dessemelhar, dissimilar
 Dissimbilanti, adj. Dessemelhante
 Dissimbilanzia, f. Dessemelhança
 Dissimili, adj. Dissímil
@@ -4219,10 +4188,8 @@ Disusai, v. Desusar
 Disusanzia, f. V. Disusu
 Disusu, m. Desuso
 Disutili, adj. Desútil, inútil
-Disutilidadi, f. Desutilidade,
-inutilidade
-Disutilmenti, adv. Desutilmente,
-inutilmente
+Disutilidadi, f. Desutilidade, inutilidade
+Disutilmenti, adv. Desutilmente, inutilmente
 Pitirambu, m. Ditirambo
 Ditonu, m. Dítono
 Dittadori, m. Ditador
@@ -4360,15 +4327,13 @@ Dottrinalmenti, adv. Doutrinalmente
 Dottrinamentu, m. Doutrinamento
 Dottu, adj. Douto
 Doxi, num.m. Doze
-Dozzinali, adj. Medíocre,
-ordinário
+Dozzinali, adj. Medíocre, ordinário
 Dragona, f. Dragona
 Dragoni, m. Dragão (soldado)
 Dragu, m. Dragão
 Dramma, m. Drama
 Drammaticu, adj. Dramático
-Drappò, m. Estandarte, bandeira,
-insígnia militar
+Drappò, m. Estandarte, bandeira, insígnia militar
 Droga, f. Droga
 Drogherie, f. Drogaria
 Droghista, m. Droguista
@@ -4665,8 +4630,7 @@ Equivocamenti, adv. Equivocamente
 Equivocamentu, m. Equivocação
 Equivocu, m. Equívoco
 Era, f. Era
-Erai, v. V. Assimbilai,
-Erariu, m. Erário
+Erai, v. V. Assimbilai, Erariu, m. Erário
 Erba, f. Erva
 Erbaceu, adj. Erbáceo
 Erborista, m. Ervatário
@@ -4681,8 +4645,7 @@ Eremita, m. Eremita
 Eremitaggiu, m. Eremitário
 Eremitanu, m. Ermitão
 Eremiticu, adj. Eremítico
-Erenzia, f. Hereditariedade,
-estirpe
+Erenzia, f. Hereditariedade, estirpe
 Eresia, f. Heresia
 Eresiarca, m. Heresiarca
 Erezioni, f. Ereção
@@ -4986,8 +4949,7 @@ Fada, f. Fada
 Faddiri, v. Errar, enganar
 Fadiai, v. V. Fatigai
 Fai, v. Fazer
-Faina, f. Trabalho, tarefa, lida,
-faina
+Faina, f. Trabalho, tarefa, lida, faina
 Falconi, m. Falcão
 Fallaci, adj. Falaz
 Fallacia, f. Falácia
@@ -5254,8 +5216,7 @@ Flaccamenti, adv. Fracamente
 Flacchesa, f. Fraqueza
 Flacchessiri, v. V. Inflacchessiri
 Flacchi, adj. V. Flacclu
-Flacclu, adj. Fraco,
-Flacidesa, f. Flacidez
+Flacclu, adj. Fraco, Flacidesa, f. Flacidez
 Flagellai, v. Flagelar
 Flagellu, m. Flagelo
 Flamma, f. Chama
@@ -5467,8 +5428,7 @@ Fruttuosamenti, adv. Frutuosamente
 Fruttuosu, adj. Frutuoso
 Fueddadori, adj. e m. Falador
 Fueddai, v. Falar
-Fueddu, m. Palavra, vocábulo,
-termo
+Fueddu, m. Palavra, vocábulo, termo
 Fuga, f. (Mús.) Fuga
 Fugaci, adj. Fugaz
 Fugacidadi, f. Fugacidade
@@ -5506,20 +5466,16 @@ Fura, f. Roubo, furto
 Furai, v. Roubar, furtar
 Furamentu, m. V. Fura
 Furanciulu, m. V. Furoni
-Furbamenti, adv. Espertamente,
-astutamente
-Furberia, f. Esperteza, astúcia,
-sagacidade
-Furbu, m. adj. Esperto, astuto,
-sagaz
+Furbamenti, adv. Espertamente, astutamente
+Furberia, f. Esperteza, astúcia, sagacidade
+Furbu, m. adj. Esperto, astuto, sagaz
 Furca, f. Forca
 Furia, f. Fúria
 Furibundu, adj. Furibundo
 Furiosamenti, adv. Furiosamente
 509
 Furiosu, adj. Furioso
-Furisteri, m. adj. Estrangeiro,
-forasteiro, forâneo
+Furisteri, m. adj. Estrangeiro, forasteiro, forâneo
 Furisteria, f. Forasteirismo
 Furniri, v. V. Forniri
 Furoni, m. Ladrão
@@ -5702,8 +5658,7 @@ Giogu, m. Jogo
 Gioja, f. Jóia
 Giojeri, m. Joalheiro
 Giornada, f. Jornada
-Giornaderi, m. Jornaleiro,
-operário a quem se paga jornal
+Giornaderi, m. Jornaleiro, operário a quem se paga jornal
 Gionarli, m. Jornal
 Giornalista, m. Jornalista
 Giossu, adv. Abaixo
@@ -5771,8 +5726,7 @@ Giustificazioni, f. Justificação
 Giustizia, f. Justiça
 Giustiziai, v. Justiçar
 Giustu, adj. Justo
-Giustu giustu, adv. Exatamente,
-justamente
+Giustu giustu, adv. Exatamente, justamente
 Glaciali, adj. Glacial
 Gladiatori, m. Gladiador
 Gladiatoriu, adj. Gladiatório
@@ -5971,8 +5925,7 @@ Illativu, adj. Ilativo
 Illazioni, f. Ilação
 Illegali, adj. Ilegal
 Illegalidadi, f. Ilegalidade
-Illegittimamenti, adv. Ilegitimamente,
-Illegittimu, adj. Ilegítimo
+Illegittimamenti, adv. Ilegitimamente, Illegittimu, adj. Ilegítimo
 Illesu, adj. Ileso
 Illicitamenti, adv. Ilicitamente
 Illicitu, adj. Ilícito
@@ -5996,11 +5949,9 @@ Imaginosu, adj. Imaginoso
 Imbainai, v. Embainhar
 Embalsamai, v. Embalsamar
 Imbalsamazioni, f. Embalsamação
-Imbarazzai, v. Embaraçar,
-confundir
+Imbarazzai, v. Embaraçar, confundir
 Imbarazzamentu, m. V. Imbarazzu
-Imbarazzu, m. Embaraço,
-confusão
+Imbarazzu, m. Embaraço, confusão
 Imbarcadori, m. Embarcador
 Imbarcai, v. Embarcar
 Imbarcamentu, m. Embarcamento
@@ -6037,8 +5988,7 @@ Imbriagu, adj. Ébrio
 Imbrimbinai, v. Acariciar, afagar
 Imbrimbinu, m. Carícia, afago
 Imbrundessiri, v. Enlourecer
-Imbruttadamenti, adv. Sujamente,
-porcamente
+Imbruttadamenti, adv. Sujamente, porcamente
 Imbruttadura, f. Sujeira, porcaria
 Imbruttai, v. Sujar, emporcalhar
 Imburdugai, v. V. Imbruttai
@@ -6311,8 +6261,7 @@ Incadenadura, f. V. Incadenamentu
 Incadenai, v. Encadear
 Incadenamentu, m. Encadeamento, encadeação
 Incagliai, v. Encalhar
-Incagliu, m. Encalhe,
-encalhamento
+Incagliu, m. Encalhe, encalhamento
 Incamminai, v. Encaminhar
 Incamminamentu, m. Encaminhamento
 Incansabili, adj. Incansável
@@ -6412,8 +6361,7 @@ Incomunicabili, adj. Incomunicável
 Inconcebibili, adj. Conconcebível
 Inconciliabili, adj. Inconciliável
 Inconcludenti, adj. Inconcludente
-Inconclusu, adj. Inconcluso,
-inacabado
+Inconclusu, adj. Inconcluso, inacabado
 Incongruentementi, adv. Incongruentemente
 Incongruenti, adj. Incongruente
 Incongruenzia, f. incongruência
@@ -6474,8 +6422,7 @@ Inculpai, v. Inculpar.
 Incultu, adj. Inculto. 
 Incumbenienti, adj. Inconveniente
 Incumbenienzia, f. Inconveniência
-Incumbenzai, v. Incumbir,
-encarregar
+Incumbenzai, v. Incumbir, encarregar
 Incumbenzia, f. Incumbência
 Incuntentabili, adj. Incontentável
 Incuntentabilmenti, adv. Incontentavelmente
@@ -6785,8 +6732,7 @@ Inopportunamenti, adv. inoportunamente
 Inopportunu, adj. Inoportuno
 Inordinadamenti, adj. V. Disordinadamenti
 Inordinau, adj. V. Disordinau
-Inospitali, adj. Inóspito,
-inospitaleiro
+Inospitali, adj. Inóspito, inospitaleiro
 Inospitalidadi, f. Inospitalidade
 Inosservabili, adj. Inobservável
 Inosservabilmenti, adv. Inobservavelmente
@@ -6831,8 +6777,7 @@ Inseparabilmenti, adv. Inseparavelmente
 517
 Insepultau, adj. Insepulto
 Inserrai, v. Fechar, encerrar
-Inserramentu, m. Fechamento,
-encerramento
+Inserramentu, m. Fechamento, encerramento
 Insertai, v. Insertar
 Insertamentu, m. inserção
 Insidia, f. Insídia
@@ -7192,8 +7137,7 @@ Iscuria, f. Iscúria
 Isoscele, adj. Isóscele, isósceles
 Ispirazioni, f. V. Inspirazioni
 Issai, v. Içar
-Issu, pron. Eles, deles,
-Istantaneamenti, adv. Instantaneamente
+Issu, pron. Eles, deles, Istantaneamenti, adv. Instantaneamente
 Istantaneu, adj. Instantâneo
 Istanti, m. V. Instanti
 Istanzia, f. V. Instanzia
@@ -7208,8 +7152,7 @@ Istrioni, m. Histrião
 Istrionicu, adj. Histriônico
 Istruiri, v. V. Instruiri
 Isula, f. Ilha
-Isulanu, adj. e m. Insulano,
-islenho, ilhéu
+Isulanu, adj. e m. Insulano, islenho, ilhéu
 Isulau, adj. Isolado
 Ita, pron. Que
 Italianamenti, adv. Italianamente
@@ -7290,8 +7233,7 @@ Largai, v. Alargar
 Largamenti, adv. Largamente
 Largaria, f. V. Larghesa
 Larghesa, f. V. Largura
-Largu, adj. Largo 2. m. Largura,
-largo
+Largu, adj. Largo 2. m. Largura, largo
 Largura, f. Largura
 Laringe, f. Laringe
 Lasciativu, adj. Laxativo
@@ -7658,8 +7600,7 @@ Maistu, m. Mestre
 Maju, m. Maio
 Majusculu, adj. Maiúsculo
 Maladia, f. Doença, enfermidade
-Maladiongiu, adj. Doentio,
-enfermiço
+Maladiongiu, adj. Doentio, enfermiço
 maladiu, adj. Doente, enfermo
 Malandrinu, m. Vagabundo
 Malappropositu, adv. Inconvenientemente
@@ -7791,8 +7732,7 @@ Marigosori, m. V. Amargura
 Marigosu, adj. Amargo
 Marineri, m. Marinheiro
 Marinu, adj. Marinho
-Marionetta, f. Marioneta,
-marionete
+Marionetta, f. Marioneta, marionete
 Maritali, adj. Marital
 Marittimu, adj. Marítimo
 Marmuri, m. Mármore
@@ -7878,8 +7818,7 @@ Meccanicu, adj. e m. Mecânico
 Meccanismu, m. Mecanismo
 Mecenati, m. Mecenas
 Meconiu, m. Mecônio
-Meda, adj. e m. adv. Muito,
-bastante, grande quantidade
+Meda, adj. e m. adv. Muito, bastante, grande quantidade
 Medaglia, f. Medalha
 Mediazioni, f. Mediação
 Medicabili, adj. Medicável
@@ -7949,8 +7888,7 @@ Menti, f. Mente
 Mentu, m. Mento, queixo
 Menzionai, v. Mencionar
 Menzioni, f. Menção
-Mercanti, m. Mercador,
-negociante
+Mercanti, m. Mercador, negociante
 Mercantili, adj. Mercantil
 Mercantilmenti, adv. Mercantilmente
 Mercanzia, f. Mercadoria
@@ -7968,8 +7906,7 @@ Merescidori, adj. Merecedor
 Merescimentu, m. Merecimento
 Meresciri, v. Merecer
 Meri, m. Patrão
-Meri, m. Depois do almoço,
-meio-dia
+Meri, m. Depois do almoço, meio-dia
 Mericeddu, m. Tarde
 Meridianu, m. adj. Meridiano
 Meridionali, adj. Meridional
@@ -8037,8 +7974,7 @@ Metricu, adj. Métrico
 Metropoli, f. Metrópole
 Metropolita, adj. e m. Metropólita
 Metropolitanu, adj. e m. Metropolitano
-Mexina, f. Medicina 2. Remédio,
-meizinha
+Mexina, f. Medicina 2. Remédio, meizinha
 Mi, pron. Me
 Miasma, m. Miasma
 Miau, m. Miau
@@ -8087,8 +8023,7 @@ Minorativu, adj. Minorativo
 Minoredadi, f. V. Minoridadi
 Minori, adj. e m. Menor
 Minoridadi, f. Menoridade
-Minudenzia, f. Minudência,
-miudezas
+Minudenzia, f. Minudência, miudezas
 Minuettu, m. Minueto
 Minuiri, v. Diminuir, minguar
 Minusculu, adj. Minúsculo
@@ -8111,10 +8046,8 @@ Miscellanea, f. Miscelânea
 Mischinamenti, adv. V. Meschinamenti
 Mischinidadi, f. V. Meschinidade
 Mischinu, adj. e m. V. Meschinu
-Micredenti, adj. Descrente,
-incrédulo
-Miscredenzia, f. Descrença,
-incredulidade
+Micredenti, adj. Descrente, incrédulo
+Miscredenzia, f. Descrença, incredulidade
 Miserabili, adj. e m. Miserável
 Miserabilidadi, f. Miserabilidade
 Miserabilmenti, adv. Miseravelmente
@@ -8208,8 +8141,7 @@ Monimentu, m. V. Monumento
 Monipodiu, m. V. Monipoliu
 Monipoliu, m. V. Monopoliu
 Monitoriali, adj. Monitorial
-Monitoriu, m. Monitória,
-advertência
+Monitoriu, m. Monitória, advertência
 Monocordu, m. adj. Monocórdio
 Monoculu, adj. e m. Monóculo
 Monodia, f. Monodia
@@ -8321,8 +8253,7 @@ Multiplici, adj. Multíplice
 Multiplicidadi, f. Multiplicidade
 Multitudini, f. Multidão
 Mummia, f. Múmia
-Mumulloni, m. Agrupamento,
-grupo
+Mumulloni, m. Agrupamento, grupo
 Mundanamenti, adv. Mundanamente
 Mundanu, adj. Mundano
 Mundiali, adj. Mundial
@@ -8346,8 +8277,7 @@ Muriaticu, adj. Muriático
 Murmuradori, adj. e m. Murmurador
 Murmurai, v. Murmurar
 Murmuranti, ad Murmurante
-Murmurazioni, f. Murmúrio,
-murmuração
+Murmurazioni, f. Murmúrio, murmuração
 Murmuttai, v. Sussurrar
 Murmuttu, m. Sussurro
 Murra, f. Espécie de jogo
@@ -8431,9 +8361,7 @@ Naufragu, adj. e m. Náufrago
 Nausea, f. Náusea
 Nauseai, v. Nausear
 Nauseanti, adj. Nauseante
-Nauseativu, adj. Nauseativo,
-nauseabundo, nauseante,
-nauseente
+Nauseativu, adj. Nauseativo, nauseabundo, nauseante, nauseente
 Nautica, f. Náutica
 Nauticu, adj. Náutico
 Navali, adj. Naval
@@ -8479,8 +8407,7 @@ Negoziu, m. Negócio
 Negromanti, m. Nigromante
 Negromanticu, adj. Nigromântico
 Negromanzia, f. Nigromancia
-Nemus, adj. pron. Ninguém,
-nenhum
+Nemus, adj. pron. Ninguém, nenhum
 Nenia, f. Nênia
 Neofitu, m. Neófito
 527
@@ -8555,8 +8482,7 @@ Nonu, num. Nono
 Noranta, num. Noventa
 Nord, m. Norte
 Norma, f. Norma
-Norobonas, f. pl. Parabéns,
-congratulações, em boa hora
+Norobonas, f. pl. Parabéns, congratulações, em boa hora
 Norti, m. V. Nord
 Nos, pron. Nós
 Nosatenus, pron. Nós outros, nós
@@ -8655,8 +8581,7 @@ Obbedire, v. Obedecer
 Obbiettivu, adj. Objetivo
 Obbligai, v. obrigar
 Obbligatoriu, adj. Obrigatório
-Obbligatu, m. Agradecimento,
-obrigado
+Obbligatu, m. Agradecimento, obrigado
 Obbligazioni, f. Obrigação
 Obbrescidroxu, m. O nascer do
 sol, aurora
@@ -8744,14 +8669,12 @@ Ogu, m. Olho
 Oh!, Interj. Oh!
 Oi, adv. Hoje
 Oidu, m. Ouvido
-Oimè, interj. Coitado de mim,
-pobre de mim
+Oimè, interj. Coitado de mim, pobre de mim
 Oleosidadi, f. Oleosidade
 Oleosu, adj. Oleoso
 Olfatu, m. Olfato
 Olia, f. Oliveira
-Oliai, v. Ungir com óleo-santo,
-dar a extrema-unção 2. Olear
+Oliai, v. Ungir com óleo-santo, dar a extrema-unção 2. Olear
 Oligarchia, f. Oligarquia
 Oligarchicu, adj. Oligárquico
 Olimpiade, f. Olimpíada
@@ -8764,8 +8687,7 @@ Olocaustu, m. Holocausto
 Oltraggiadori, adj. e m. Ultrajador
 Oltraggiai, v. Ultrajar
 Oltraggiosamenti, adj. Ultrajosamente, ultrajantemente
-Oltraggiosu, adj. Ultrajoso,
-ultrajante
+Oltraggiosu, adj. Ultrajoso, ultrajante
 DICIONÁRIO SARDO / PORTUGUÊS
 Oltraggiu, m. Ultraje
 Oltramarinu, adj. Ultramarino
@@ -8879,8 +8801,7 @@ Ordinai, v. Ordenar
 Ordinali, adj. Ordinal
 Ordinamentu, m. Ordenamento
 Ordinandu, adj. e m. Ordinando
-Ordinanza, f. Ordenança,
-ordenamento
+Ordinanza, f. Ordenança, ordenamento
 Ordinariamenti, adv. Ordinariamente
 Ordinariu, adj. Ordinário
 Ordinazioni, f. Ordenação
@@ -9059,8 +8980,7 @@ P, m. P
 Pabassa, f. Passa, uva seca
 Pabassina, f. Espécie de comida
 típica da Sardenha
-Pacau, adj. Pacato, tranqüilo,
-quieto
+Pacau, adj. Pacato, tranqüilo, quieto
 Pacchettu, m. Embrulho
 Pacificabili, adj. Pacificável
 Pacificadori, adj. e m. Pacificador
@@ -9086,8 +9006,7 @@ Pagina, f. Página
 Pagu, pron. m. adv. Pouco 2. A
 pagu a pagu = pouco a pouco
 Paisaggiu, m. Paisagem
-Paisanu, adj. e m. Paisano,
-compatriota
+Paisanu, adj. e m. Paisano, compatriota
 Paisu, m. Região
 Palacadira, f. V. Palacardiga
 Palacardiga, f. Espécie de jogo
@@ -9128,8 +9047,7 @@ Palu, m. V. Pau
 Paludi, f. Palude
 Paludosu, adj. Paludoso
 Pancia, f. Pança, barriga
-Panciudu, adj. Pançudo,
-barrigudo
+Panciudu, adj. Pançudo, barrigudo
 Panegiricu, m. adj. Panegírico
 Panegirista, m. Panegirista
 Pani, m. Pão
@@ -9177,10 +9095,8 @@ Parafrasi, f. Paráfrase
 Parafraste, m. Parafraste
 Parafrasticu, adj. Parafrástico
 Paragonabili , adj. Comparável
-Paragonai, v. Paragonar,
-comparar, cotejar
-Paragoni, m. Paragão,
-comparação
+Paragonai, v. Paragonar, comparar, cotejar
+Paragoni, m. Paragão, comparação
 Paragrafu m. Parágrafo
 Parai, v. Parar 2. Ornar 3. Armar
 Parallelamenti, adv. Paralelamente
@@ -9202,8 +9118,7 @@ Paraninfu, m. Padrinho, paraninfo
 Parapettus, m. Parapeito
 Paraqua, m. Guarda-chuva
 Parasoli, m. Guarda-sol, pára-sol
-Paraventu, m. Guarda-vento,
-pára-vento
+Paraventu, m. Guarda-vento, pára-vento
 Paraula, f. Palavra
 Paraulazza, f. Palavrão
 Parca, f. Parca
@@ -9216,8 +9131,7 @@ Parenesi, f. Parênese
 Parenetica, f. Parenética
 Pareneticu, adj. Parenético
 Parentau, m. V. Parentela
-Parentela, f. Parentela,
-consangüinidade
+Parentela, f. Parentela, consangüinidade
 Parentesi, f. Parêntese
 Parenti, m. adj. Parente
 Paridadi, f. Paridade
@@ -9337,8 +9251,7 @@ Patriu, adj. Pátrio
 Patriziatu, m. Patriciado
 Patriziu, m. adj. Patrício
 Patrocinadori, adj. e m. Patrocinador, defensor, protetor 2. Advogado
-Patrocinai, v. Patrocinar,
-defender, proteger 2. Advogar
+Patrocinai, v. Patrocinar, defender, proteger 2. Advogar
 Patrociniu, m. Patrocínio, defesa, proteção
 Patronatu, m. Patronato
 Pattu, m. Pacto
@@ -9415,8 +9328,7 @@ Penosamenti, adv. Penosamente
 Penosu, adj. Penoso
 Pensadamenti, adv. Pensadamente
 Pensadori, m. Pensador
-Pensai, v. Pensar 2. m. Opinião,
-pensar
+Pensai, v. Pensar 2. m. Opinião, pensar
 Pensamentu, m. Pensamento
 Pensanti, adj. Pensante
 Pensativu, adj. Pensativo
@@ -9460,8 +9372,7 @@ Perfettamenti, adv. Perfeitamente
 Perfettibili , adj. Perfectível
 Perfettivu, adj. Perfectivo
 Perfettu, adj. Perfeito
-Perfezionai, v. Perfeiçoar,
-aperfeiçoar
+Perfezionai, v. Perfeiçoar, aperfeiçoar
 DICIONÁRIO SARDO / PORTUGUÊS
 Perfezioni, f. Perfeição
 Perfidamenti, adv. Perfidamente
@@ -9586,8 +9497,7 @@ Pessimismu, m. Pessimismo
 Pessimu, adj. Péssimo
 Pesta, f. Peste 2. Fedor
 Pestiferu, adj. Pestífero
-Pestilenti, adj. Pestilente,
-pestilento
+Pestilenti, adj. Pestilente, pestilento
 Pestilenzia, f. Pestilência
 Pestilenziali , adi. Pestilencial
 Pestilenziosu, adj. Pestilencioso
@@ -9610,8 +9520,7 @@ Piadosamenti, adv. V. Piedosamenti
 Piadosu, adj. V. Piedosu
 Piamenti, adv. Piamente
 Pianoforti, m. Pianoforte
-Pianu, m. Andar (de casa,
-edifício) 2. Piano
+Pianu, m. Andar (de casa, edifício) 2. Piano
 Pibera, f. Víbora
 Piccai, v. Picar
 Piccantementi, adv. Picantemente
@@ -9619,8 +9528,7 @@ Piccanti, adj. Picante
 Piccinnesa, f. V. Gioventudi
 Piccinnia, f. V. Piccinnesa
 Piccinnu, m. adj. V. Giovanu
-Piccioca, f. Moça, donzela,
-rapariga
+Piccioca, f. Moça, donzela, rapariga
 Picciocu, m. Moço, rapaz
 Piedadi, f. Piedade
 Piedestallu, m. Pedestal
@@ -10034,8 +9942,7 @@ Primogenitura, f. Primogenitura
 Primordiali, adj. Primordial
 Primori, m. Primor
 Primorosu, adj. Primoroso
-Primu, num. e adj. e m. Primeiro,
-primo
+Primu, num. e adj. e m. Primeiro, primo
 Principali, adj. Principal
 Principalidadi, f. Principalidade
 Principalmenti, adv. Principalmente
@@ -10136,10 +10043,8 @@ Profugu, adj. Prófugo
 Profumai, v. Perfumar
 Profumu, m. Perfume
 Profundamenti, adv. Profundamente
-Profundai, v. Aprofundar,
-profundar
-Profundamentu, m. Profundeza,
-profundez
+Profundai, v. Aprofundar, profundar
+Profundamentu, m. Profundeza, profundez
 Profundidadi, f. Profundidade
 Profundu, adj. e m. Profundo
 Profusamenti, adv. Profusamente
@@ -10302,10 +10207,8 @@ Provvidenti, adj. Providente
 Provvidenzia, f. Providência
 Provvidiri, v. Prover
 Provvidu, adj. Próvido
-Provvisionali, adj. Provisório,
-provisional
-Provvisionalmenti, adv. Provisoriamente,
-provisionalmente
+Provvisionali, adj. Provisório, provisional
+Provvisionalmenti, adv. Provisoriamente, provisionalmente
 Provvisioni, f. Provisão
 Provvisori, adj. e m. Provisor
 Provvisoriamenti, adv. Provisoriamente
@@ -10531,8 +10434,7 @@ Rabbinu, m. Rabino
 Rabbiosamenti, adv. Raivosamente
 Rabbiosu, adj. Raivoso
 Raccontai, v. Contar, relatar
-Raccontu, m. Conto,
-Rachiticu, adj. Raquítico
+Raccontu, m. Conto, Rachiticu, adj. Raquítico
 Radiai, v. Irradiar, radiar
 Radicai, v. Radicar
 Radicali, adj. e m. Radical
@@ -10582,8 +10484,7 @@ Raredadi, f. Raridade
 Rarefai, v. Rarefazer
 Rarefazioni, f. Rarefação
 Rarificai, v. V. Rarefai
-Rarificativu, adj. Rarefativo,
-rarefaciente
+Rarificativu, adj. Rarefativo, rarefaciente
 Raru, adj. Raro 2. adv. V. Raramenti
 Rastai, v. Seguir o rastro, rastrear
 Rastamentu, m. Rasteamento
@@ -10613,8 +10514,7 @@ Realidadi, f. Realidade
 Realisai, v. Realizar
 Realista, adj. e m. Realista
 Realmenti, adv. Realmente
-Reamenti, adv. Iniquamente,
-injustamente
+Reamenti, adv. Iniquamente, injustamente
 Reassumiri, v. Reassumir
 Reattai, v. Reatar
 Reattamentu, m. Reatamento
@@ -10752,15 +10652,13 @@ Reggidori, adj. e m. Regedor
 Reggimentu, m. Regimento
 Reggiri, v. Reger
 Reghescia, f. Litígio, contenda
-Reghesciosu, adj. Litigioso,
-contencioso
+Reghesciosu, adj. Litigioso, contencioso
 Regiamenti, adv. Regiamente
 Regicida, m. Regicida
 Registrai, v. Registrar
 Registru, m. Registro
 Regiu, adj. Régio
-Regla, f. V. Regula 2. Regra,
-menstruação
+Regla, f. V. Regula 2. Regra, menstruação
 Regnai, v. Reinar
 Reinanti, adj. Reinante 2. m. Rei
 Regnu, m. Reino
@@ -10808,12 +10706,9 @@ Reluxiri, v. Reluzir
 Remadori, adj. e m. Remador
 Remadura, f. Remadura
 Remai, v. Remar
-Rembombai, v. Ribombar,
-rimbombar
-Rembombanti, adj. Ribombante,
-rimbombante
-Rebombu, m. Ribombo,
-rimbombo
+Rembombai, v. Ribombar, rimbombar
+Rembombanti, adj. Ribombante, rimbombante
+Rebombu, m. Ribombo, rimbombo
 Remborsai, v. Reembolsar
 Remborsu, m. Reembolso
 Rembumbai, v. V. Rembombai
@@ -10855,8 +10750,7 @@ Renda, f. Renda
 Rendai, v. V. Arrendai
 Rendiri, v. Render
 Rennegai, v. Renegar
-Rennegamentu, m. Renegamento,
-renegação
+Rennegamentu, m. Renegamento, renegação
 541
 Rennovabili, adj. Renovável
 Rennovadori, adj. e m. Renovador
@@ -10947,8 +10841,7 @@ Reservazioni, f. Reserva
 Resfriai, v. Resfriar
 Resfriadura, f. V. Resfriu
 Resfriau, m. V. Resfriu
-Resfriu, m. Resfriado,
-resfriamento
+Resfriu, m. Resfriado, resfriamento
 Residenti, adj. Residente
 Residenzia, f. Residência
 Residiri, v. Residir
@@ -11191,8 +11084,7 @@ Rundili, m. Andorinha
 Rurali, adj. Rural
 Rusa, f. Astúcia
 Rusticamenti, m. Rusticamente
-Rustichesa, f. Rustiquez,
-rustiqueza
+Rustichesa, f. Rustiquez, rustiqueza
 Rusticidadi, f. Rusticidade
 Rusticu, adj. Rústico
 Ruttura, f. V. Rottura
@@ -11369,8 +11261,7 @@ Sbussai, v. Pagar no ato
 Sbuttonai, v. Desabotoar
 Scabiossai, v. V. Precipitai
 Scabizzada, f. Cabeçada
-Scabizzai, v. Decapitar,
-descabeçar
+Scabizzai, v. Decapitar, descabeçar
 Scabudai, v. V. Abbandonai
 Scabudu, m. V. Abbandonu
 Scabulliri, v. Livrar
@@ -11404,8 +11295,7 @@ Scapula, f. Escápula
 Scaramussa, f. Escaramuça
 Scaramussai, v. Escaramuçar
 Scarcerai, v. Excarcelar
-Scarciopinu, adj. Indigente,
-miserável
+Scarciopinu, adj. Indigente, miserável
 Scardiggiai, v. V. Scalentai
 Scarescimentu, m. Esquecimento
 Scaresciri, v. Esquecer
@@ -11541,8 +11431,7 @@ Sculpidori, m. Escultori
 Sculpimentu, m. Escultura
 Sculpiri, v. Esculpir
 Scultori, m. Escultor
-Scumponiri, v. Descompor,
-desordenar
+Scumponiri, v. Descompor, desordenar
 Scunfiai, v. V. Discunfiai
 545
 Scunfianza, f. V. Discunfianza
@@ -11554,16 +11443,14 @@ Scupiri, v. Cuspir
 Scuridadi, f. Escuridão
 Scurigai, v. Escurecer
 Scuriosu, adj. Escuro
-Scuriu, m. Escuridão, escuro,
-treva
+Scuriu, m. Escuridão, escuro, treva
 Scurrenza, f. Diarréia
 Scurtai, v. V. Ascurtai
 Scuru, m. V. Scuriu 2. adj. V. Meschinu
 Scurzai, v. Descalçar
 Scurzu, adj. Descalço
 Scusa, f. Desculpa, escusa
-Scusabili, adj. Desculpável,
-escusável
+Scusabili, adj. Desculpável, escusável
 Scusai, v. Desculpar
 Scusorgiu, m. Tesouro
 Sderrexonau, adj. V. Irrexonabili
@@ -11606,8 +11493,7 @@ Segretariatu, m. V. Secretariatu
 Segretariu, m. V. Secretariu
 Segretaria, f. V. Secretaria
 Segretu, m. adj. V. Secretu
-Seguaci, adj. e m. Seguaz,
-seguidor
+Seguaci, adj. e m. Seguaz, seguidor
 Segundariamenti, adv. Secundariamente
 Segundariu, adj. Secundário
 Segundu, m. adj. Segundo
@@ -11655,8 +11541,7 @@ Sensualmenti, adv. Sensualmente
 Sentenzia, f. Sentença
 Sentenziai, v. Sentenciar
 Sentenziosu, adj. Sentencioso
-Sentidu, m. Sentido,
-Sentinella, f. Sentinela
+Sentidu, m. Sentido, Sentinella, f. Sentinela
 Sentiri, v. Sentir
 Senza, f. prep. Sem
 Separadamenti, adv. Separadamente
@@ -11829,8 +11714,7 @@ Similanti, adj. Semelhante
 Similanza, f. V. Simbilanzia
 Simili, adj. Símile, semelhante
 Similitudini, f. V. Similanza
-Similmenti, adj. Similmente,
-semelhantemente
+Similmenti, adj. Similmente, semelhantemente
 Simonia, f. Simonia
 Simoniacamenti, adv. Simoniacamente
 Simoniacu, adj. Simoníaco
@@ -12080,30 +11964,25 @@ Speranza, f. Esperança
 Speranzai, v. Esperançar
 Speranzosu, adj. Esperançoso
 Sperdidori, adj. e m. Esperdiçador, desperdiçador
-Sperdiri, v. Esperdiçar,
-desperdiçar
+Sperdiri, v. Esperdiçar, desperdiçar
 Sperdiziadura, f. V. Sperdiziu
 Sperdiziai, v. V. Sperdiri
 Sperdiziamentu, m. V. Sperdiziu
 Sperdiziau, m. V. Sperdidori
-Sperdiziu, m. Esperdício,
-desperdício
+Sperdiziu, m. Esperdício, desperdício
 Sperefundai, v. Precipitar, cair em
 abismo
-Sperefundiu, m. Abismo,
-precipício
+Sperefundiu, m. Abismo, precipício
 Spergiurai, v. Perjurar
 Spergiuru, m. Perjúrio
 Sperienzia, f. Experiência
 Sperimentai, v. Experimentar
 Sperimentali, adj. Experimental
-Sperimentau, adj. Experiente,
-experimentado
+Sperimentau, adj. Experiente, experimentado
 Sperimentu, m. Experimento
 Sperma, m. Esperma
 Spermaticu, adj. Espermático
-Sperradiua, f. Fenda, fissura,
-rachamento
+Sperradiua, f. Fenda, fissura, rachamento
 Sperrai, v. Fender, finurar, rachar
 Sperrumai, v. V. Sperefundai
 Sperrumu, m. V. Sperefundiu
@@ -12306,8 +12185,7 @@ Stipulazioni, f. Estipulação
 Stirai, v. Estirar
 Stiramentu, m. Estiramento
 Stirpai, v. Extirpar
-Stittagiu, m. Desleitamento,
-desmama
+Stittagiu, m. Desleitamento, desmama
 Stittai, v. Desleitar
 Stittamentu, m. V. Stittagiu
 Stittu, m. V. Stittamentu
@@ -12375,12 +12253,9 @@ Stupori, m. Estupor
 Stupradori, adj. e m. Estrupador
 Stuprai, v. Estrupar
 Stupru, m. Estupro
-Sturbadori, adj. e m. Perturbador,
-estorvador
-Sturbai, v. Perturbar, estorvar,
-incomodar
-Sturbu, m. Perturbação, estorvo,
-incômodo
+Sturbadori, adj. e m. Perturbador, estorvador
+Sturbai, v. Perturbar, estorvar, incomodar
+Sturbu, m. Perturbação, estorvo, incômodo
 Su, art. o
 Su, pron. Aquele
 Suavementi, adv. Suavemente
@@ -12413,8 +12288,7 @@ Successivamenti, adv. Sucessivamente
 Successivu, adj. Sucessivo
 Successori, m. Sucessor
 Successoriu, adj. Sucessório
-Successu, m. Sucesso,
-acontecimento
+Successu, m. Sucesso, acontecimento
 Succintu, adj. Sucinto
 Succiu, m. Suco
 Succurriri, v. Socorrer
@@ -12568,8 +12442,7 @@ Susuncu, adj. Avaro
 Sutta, prep. Sob 2. Vice
 Suttaconsulu, m. Vice-Cônsul
 Sutterrai, v. Enterrar
-Sutteramentu, m. Enterramento,
-enterro
+Sutteramentu, m. Enterramento, enterro
 Sutterraneu, adj. Subterrâneo
 Suttigliesa, f. V. Suttilesa
 Suttilesa, f. Sutileza
@@ -12601,8 +12474,7 @@ Tabacchista, m. Tabaquista
 Tabaccu, m. Tabaco
 Tabellioni, m. Tabelião
 Tabernaculu, m. Tabernáculo
-Taccagneria, f. Tacanharia,
-avareza
+Taccagneria, f. Tacanharia, avareza
 Taccangnuu, adj. Tacanho, avaro
 Tacconi, m. Salto (de sapato)
 Taccu, m. V. Tacconi
@@ -12709,8 +12581,7 @@ Teneramenti, adv. V. Tiernamenti
 Teneru, adj. Terno
 Tenesmu, m. Tenesmo
 Teniri, v. Ter 2. Arder, queimar
-Tenori, m. Tenor 2. Assunto,
-conteúdo
+Tenori, m. Tenor 2. Assunto, conteúdo
 Tensioni, f. Tensão
 Tentadori, adj. e m. Tentador
 Tentai, v. Tentar
@@ -12816,8 +12687,7 @@ Tipicu, adj. Típico
 Tipografia, f. Tipografia
 Tipograficu, adj. Tipográfico
 Tipografu, m. Tipógrafo
-Tirai, v. Tirar 2. Jogar, atirar,
-3. Atrair
+Tirai, v. Tirar 2. Jogar, atirar, 3. Atrair
 Tirania, f. V. Tirannia
 Tirannia, f. Tirania
 Tirannicamenti, adv. Tiranicamente
@@ -12917,8 +12787,7 @@ Traitoria, f. V. Traiximentu
 Traiximentu, m. V. Traizioni
 Traixiri, v. Trair
 Traizioni, f. Traição
-Traluxenti, adj. Transluzente,
-translúcido
+Traluxenti, adj. Transluzente, translúcido
 553
 Traluxiri, V. Transluziri
 Trama, f. Trama
@@ -13020,8 +12889,7 @@ Triangulari, adj. Triangular
 Triangulu, m. Triângulo
 Tribu, f. Tribo
 Tribulai, v. Tribular, atribular
-Tribulazioni, f. Tribulação,
-atribulação
+Tribulazioni, f. Tribulação, atribulação
 Tribulia, f. V. Tribulazioni
 Tribuna, f. Tribuna
 Tribunali, m. Tribunal
@@ -13313,8 +13181,7 @@ Utilmenti, adv. Utilmente
 Utilosu, adj. Vantajoso
 V
 V, m. V
-Vacai, v. Vacar,
-Vacanti, adj. Vacante
+Vacai, v. Vacar, Vacanti, adj. Vacante
 Vacanza, f. Vacância
 Vacazioni, f. V. Vacanza 2. Férias
 Vaccina, f. Vacina
@@ -13585,10 +13452,8 @@ Vitalidadi, f. Vitalidade
 Vitaliziu, adj. Vitalício
 Vitalmenti, adv. Vitalmente
 Vitai, v. V. Evitai
-Vitaniamenti, adv. Perpetuamente,
-imperecivelmente
-Vitaniu, adj. Perpétuo,
-imperecível
+Vitaniamenti, adv. Perpetuamente, imperecivelmente
+Vitaniu, adj. Perpétuo, imperecível
 Vitellinu, adj. Vitelino
 Vitellu, m. Vitelo
 Vitianu, adj. V. Vitaniu
@@ -13658,8 +13523,7 @@ Voluntariamenti, adv. Voluntariamente
 Voluntariedadi, f. Voluntariedade
 Voluntariosu, adj. Voluntarioso
 Voluntariu, adj. Voluntário
-Voluttuariu, adj. Volutuário,
-voluptuário
+Voluttuariu, adj. Volutuário, voluptuário
 Vomitai, v. Vomitar
 Vomitamentu, m. Vomição
 Vomitivu, adj. Vomitivo
